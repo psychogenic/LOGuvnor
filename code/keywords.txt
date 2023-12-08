@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For LOGuvnor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+LOGuvnor	KEYWORD1
+Driver	KEYWORD1
+Globals	KEYWORD1
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+tick	KEYWORD2
+ui	KEYWORD2
+positionChangeEvent	KEYWORD2
+buttonInterrupt	KEYWORD2
+
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PIN_ROTENC_A	LITERAL1
+PIN_ROTENC_B	LITERAL1
+PIN_ROTSWITCH	LITERAL1
+PIN_SW_CHANSEL	LITERAL1
+PIN_SW_CHANEN	LITERAL1
+PIN_SW_FUNCTION	LITERAL1
+PIN_STATUS	LITERAL1
+PIN_INDIC_nCHANSEL_1	LITERAL1
+PIN_INDIC_nCHANENA_1	LITERAL1
+PIN_INDIC_nCHANSEL_2	LITERAL1
+PIN_INDIC_nCHANENA_2	LITERAL1
+PIN_INDIC_nCHANSEL_3	LITERAL1
+PIN_INDIC_nCHANENA_3	LITERAL1
