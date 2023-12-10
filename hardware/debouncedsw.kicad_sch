@@ -497,7 +497,7 @@
     (property "Vendor" "450-1130-ND" (at 63.5 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Display value" "SW_Push" (at 64.7192 62.103 90)
+    (property "Display Value" "SW_Push" (at 64.7192 62.103 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
     (pin "1" (uuid 133a784b-271a-4454-9690-b39034d44649))
