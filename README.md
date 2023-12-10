@@ -2,7 +2,7 @@
 
 Copyright (C) 2023  Pat Deegan.  All rights reserved.
 [https://psychogenic.com](https://psychogenic.com)
-Source code is released under the LGPL, hardware under CC BY-SA 4.0 
+Source code is released under the GPL (see code/LICENSE), hardware under CC BY-SA 4.0 (see hardware/LICENSE)
 
 This is a very simple way to transform the widely used Si5351 modules into a useful lab/workbench tool. The entire purpose is to get access to these three clock generators--which can provide clocks in the low kiloHertz up to hundreds of MegaHertz--with minimal interruption to your workflow.
 ![LO Guv'nor](https://raw.githubusercontent.com/psychogenic/LOGuvnor/main/doc/LOGuvnor-assembled.jpg)
